@@ -26,12 +26,6 @@ body {
     color: #666;
 }
 
-.questions img {
-    width: 100%; /* Make images responsive */
-    height: auto;
-    border-radius: 8px;
-    margin-top: 10px;
-}
 
 /* Result section styling */
 .result {
@@ -41,4 +35,16 @@ body {
     margin-top: 20px;
     border-radius: 8px;
     font-size: 1.2em;
+}
+
+.ROY {
+    display: none;
+}
+
+.Position {
+    display: none;
+}
+
+.Championships {
+    display: none;
 }
