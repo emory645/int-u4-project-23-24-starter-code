@@ -37,14 +37,24 @@ body {
     font-size: 1.2em;
 }
 
-.ROY {
+.image1 {
     display: none;
 }
-
-.Position {
+.image2 {
+    display:none;
+}
+.image3 {
     display: none;
 }
-
-.Championships {
+.image4 {
     display: none;
+}
+.image5 {
+    display: none;
+}
+button {
+    color:#666
+}
+button:hover{
+    color:#7e7a7a
 }
